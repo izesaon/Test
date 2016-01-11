@@ -23,9 +23,7 @@ or add new files. It's all up to you!
 Happy coding!
 The Cloud9 team
 
-P.S. Oh, one more thing: to start a new project, hop on over to your 
-dashboard (from your profile picture at the top right choose "Dashboard") 
-and hit the button labelled "Create New Workspace."
+P.S. Oh, one more 
 
 
 ## Support & Documentation
